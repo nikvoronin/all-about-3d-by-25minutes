@@ -2,18 +2,11 @@
 
 Как развивалась 3D графика. Задачи и пути их решения. Где мы сейчас?
 
+![Title Slide](slides/00.png)
+
 __Место проведения:__ г. Владимир, ул. Горького 87 (Учебный корпус №1 [Владимирского государственного университета](https://yandex.ru/maps/-/CCUVeVVItB)), конф. зал 335.
 
-- [План](#план)
-- [Вопросы](#вопросы)
-- [Hints](#hints)
-    - [Get PNG slides with ImageMagick](#get-png-slides-with-imagemagick)
-    - [ImageMagic PDF restrictions](#imagemagic-pdf-restrictions)
-    - [HowTo get PNG slides](#howto-get-png-slides)
-
-- [Видео (rutube)](https://rutube.ru/video/6acdcfac064cb0cee7e5668825717cf7/) 00:33:47
-
-![Title Slide](slides/00.png)
+[Видео (rutube)](https://rutube.ru/video/6acdcfac064cb0cee7e5668825717cf7/) 00:33:47
 
 ## План
 
