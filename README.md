@@ -8,8 +8,8 @@ __Место проведения:__ Vladimir Tech Talks #16, г. Владими
 
 9 декабря 2022 года.
 
-- [Видео `rutube`](https://rutube.ru/video/6acdcfac064cb0cee7e5668825717cf7/) ▶ 00:33:47
-- [Видео `VK`](https://vk.com/video-178974757_456239037) ▶ 1:13:00
+- ▶ [Видео `VK`](https://vk.com/video-178974757_456239037?t=1h13m)
+- ▶ [Видео `rutube`](https://rutube.ru/video/6acdcfac064cb0cee7e5668825717cf7/?t=2027)
 
 ## План
 
